@@ -1,0 +1,16 @@
+
+# Visual Studio temporary files
+.vs/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE files
+.idea/
